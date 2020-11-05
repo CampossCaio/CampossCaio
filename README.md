@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Sambatech**
 
-- 🌱 I’m currently learning **ReactJS, React Native, NodeJS, Typescript**
+- 🌱 I’m currently learning **ReactJS, React Native, NodeJS, NextJS and Typescript**
 
 - 💬 Ask me about **ReactJS, React Native and NodeJS**
 
