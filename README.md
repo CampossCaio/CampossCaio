@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Caio Campos</h1>
 <h3 align="center">A fullstack developer from Brazil</h3>
 
-- 🔭 I’m currently working at **Sambatech**
+- 🔭 I’m currently working at **Hotmart**
 
 - 🌱 I’m currently learning **ReactJS, React Native, NodeJS, NextJS and Typescript**
 
