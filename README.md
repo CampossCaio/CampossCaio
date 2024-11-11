@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Caio Campos</h1>
-<h3 align="center">A fullstack developer from Brazil</h3>
+<h3 align="start">Hey there! I’m Caio 👋</h3>
 
-- 🔭 I’m currently working at **Hotmart**
+I’m a passionate **Software Engineer** 🧑‍💻, crafting awesome apps with a side of caffeine ☕.
 
-- 🌱 I’m currently learning **ReactJS, React Native, NodeJS, NextJS and Typescript**
+With 5+ years of front-end and back-end wizardry, I thrive on turning complex problems into elegant code that just works. Right now, I’m building things with **React** and **Node.js**.
 
-- 💬 Ask me about **ReactJS, React Native and NodeJS**
+🚀 At **Hotmart**, I helped scale a video player for millions of users, and at **Samba Tech**, I worked on digital transformation projects that pushed the limits of what’s possible.
 
-- 📫 How to reach me **campos.f.caio@gmail.com**
+🤖 When I’m not writing code, you’ll find me diving deep into **AI**, exploring the world of **game development**, or hunting down the next tech trend to obsess over.
+
+Let’s build something amazing together! Feel free to fork my repos, drop an issue, or just reach out! 👾
+
+
 
 
 
